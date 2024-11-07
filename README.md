@@ -11,10 +11,10 @@
 
 5. Create a timer component to start, pause and reset using ReactJS.
 
-6. Create a React component that checks the strength of a password and displays the result to the user.
-The component will take user input and use a set of rules to determine the strength of the password.
+**6. Create a React component that checks the strength of a password and displays the result to the user.
+The component will take user input and use a set of rules to determine the strength of the password.**
 
-7. Design the authorized end points using JWT (JSON Web Token)
+**7. Design the authorized end points using JWT (JSON Web Token)**
 
 **8. Develop a backend application with REST API to perform CRUD operations on student data.
 (Use Postman Tool)**
