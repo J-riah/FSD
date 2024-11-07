@@ -5,8 +5,8 @@ const alienRouter = require('./routes/aliens.js')
 
 
 
-const url = 'mongodb://localhost:27017/CBIT'
-//const url = 'mongodb://127.0.0.1:27020,127.0.0.1:27021,127.0.0.1:27022/cbitit1?replicaSet=m101';
+//const url = 'mongodb://localhost:27017/CBIT'
+const url = 'mongodb://127.0.0.1:27020,127.0.0.1:27021,127.0.0.1:27022/cbitit1?replicaSet=m101';
 const app = express()
 mongoose.connect(url)
 const con = mongoose.connection

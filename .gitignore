@@ -1,1 +1,10 @@
-8_CBIT_CRUD/server/node_modules
+# General
+node_modules/
+*.lock
+*.json
+.env
+
+# Project-specific (if needed)
+6_PasswordChecker/password/public
+6_PasswordChecker/password/src
+7_JWT/server2.js
